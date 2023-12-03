@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Usman2708
 - 👀 I’m interested in Data Visualisation using Bi Tools Like Tableau, Power BI
-- 🌱 I’m currently learning Analytics Skill
+- 🌱 I’m currently learning Analytics Skill and have hands on tableau experience  1.9 yrs 
 - - 📫 You can reach me ushah9691@gmail.com and Contact : 7400340785
+ 
+
+
+
 
 <!---
 Usman2708/Usman2708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
