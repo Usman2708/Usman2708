@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Usman Shah
-- 👀 I’m interested in Data Visualisation using Bi Tools Like Tableau, Power BI
-- 🌱 I’m currently learning Analytics Skill and have hands on tableau experience  1.9 yrs 
+- 👀 I can Create interactive dashboard & Data Visualisation using Bi Tools Like Tableau, Power BI
+- 🌱 I have skills of Sql,powerbi,advance excel and have hands on tableau experience  1.9 yrs 
 - - 📫 You can reach me ushah9691@gmail.com and Contact : 7400340785
  
 
