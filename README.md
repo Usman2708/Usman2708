@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohd Usman Shah
-- 👀 I can Create interactive dashboard & Data Visualisation using Bi Tools Like Tableau, Power BI
-- 🌱 I have skills of Sql,powerbi,advance excel tableau. 
+- 👀 I can Create interactive dashboard & Data Visualisation using Bi Tools Like Tableau, Power BI 
 - - 📫 You can reach me ushah9691@gmail.com and Contact : 7400340785
  
 
